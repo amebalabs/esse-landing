@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 2.1** 
+`Dec 29, 2019`
+- 🎈New "Spell out Numbers" function.
+- 🎈New "Strip Numeric Characters" function. 
+- 🎈New "Remove All non Alphanumeric Characters" function.
+- 🎈New "What's New" section in settings.
+- 🎈New "Done" button to dismiss the keyboard 
+- 🐛Fixed: Today Widget is unreadable when system is in Dark Mode
 
 # **Version 2.0.2-3** 
 `Oct 10, 2019`
