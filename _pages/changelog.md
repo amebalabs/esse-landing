@@ -8,6 +8,15 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 2020.1** 
+`Feb 28, 2020`
+- 🎈New "Wrap Paragraph in Quotes"
+- 🎈New "Text Stats"
+- 🎈New "List: Add Line Numbers \ Bullets" functions, 4 variants
+- 🎈Dynamic Text support
+- 🐛Fixed a bunch of typos
+
+
 # **Version 2.1** 
 `Dec 29, 2019`
 - 🎈New "Spell out Numbers" function.
