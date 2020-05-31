@@ -8,6 +8,14 @@ include_in_header: true
 <br>
 
 ### `Latest`
+ # **Version 2020.3** 
+- 🎈New: Custom Fonts Support
+- 🎈New: "Prettify JSON"
+- 🎈New: "Prettify and Sort JSON"
+- ⚙️Improved: "List: Add Line Numbers\Bullets" skips empty lines
+- 🐛Fixed: Dark theme for Action Extension 
+- 🐛Fixed: Long function's description now fit on screen
+
 # **Version 2020.1** 
 `Feb 28, 2020`
 - 🎈New "Wrap Paragraph in Quotes"
@@ -53,7 +61,7 @@ This major update of Esse brings new functions, new iPad optimized layout and fu
 - 🎈New Chicago Manual of Style capitalization function
 - 🎈New Shuffle Words function
 - 🎈New Shuffle Sentences function 
-- ️️⚙️Minor Search improvements, now you can search functions not only by name but by description as well
+- ⚙️Minor Search improvements, now you can search functions not only by name but by description as well
 - 🎈Support for Light and Dark theme, with option to override System appearance
 - 🐛Fixed: Custom functions not visible in Share sheet and Today widget
 
