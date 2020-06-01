@@ -8,7 +8,9 @@ include_in_header: true
 <br>
 
 ### `Latest`
- # **Version 2020.3** 
+
+# **Version 2020.3** 
+`May 31, 2020`
 - 🎈New: Custom Fonts Support
 - 🎈New: "Prettify JSON"
 - 🎈New: "Prettify and Sort JSON"
