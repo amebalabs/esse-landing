@@ -14,7 +14,7 @@ External scripts are stored in Esse' folder on iCloud drive, you can access it i
 
 ## Scripts Repository
 
-Official repository for Esse external scripts can be found on [GitHub](https://github.com/amebalabs/Esse). Feel free to open a pull request if you want to fix a bug or add new script!
+Official repository for Esse external scripts can be found on [GitHub](https://github.com/amebalabs/Esse/tree/master/Scripts). Feel free to open a pull request if you want to fix a bug or add new script!
 
 Currently, there is no integration of scripts repository with the app, just download scripts and put them into the scripts folder.
 
