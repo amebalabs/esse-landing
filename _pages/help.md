@@ -44,7 +44,7 @@ Esse strives to be a great macOS app and be available right where you need it, t
 * The app itself features a clean two-panel UI, where you can see Input and Result next to each other, along with applied functions below it. The best experience comes with using keyboard shortcuts, refer to the menu items to discover it.
 * Menu bar item gives you quick access to all Esse functions, your Favorites will appear on the first level with all other functions grouped by category. Clicking on functions in Esse's menu bar applies this function to clipboard content and puts the result back to the clipboard.
 * Esse provides System Service for text, which means you can access it from any app in the Services menu or using a hotkey. System Service puts selected text into Esse' Input field.
-* Commandline tool - all Esse functions are available through a command-line interface, which means you can integrate Esse in shell scripts.
+* Command line tool - all Esse functions are available through a command line interface, which means you can integrate Esse in shell scripts. Official [Alfred Workflow](https://github.com/amebalabs/Esse/tree/master/Alfred) is an example of command line tool usage.
 
 # Functions Library
 
