@@ -41,9 +41,13 @@ features                                  :
     description                           : Combine several text transformation functions in one to create a more powerful transformation.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Siri  Shortcuts
+  - title                                 : Siri Shortcuts
     description                           : All Esse functions are available through Siri Shortcuts, include it in your productivity workflow.
     fontawesome_icon_name                 : microphone
+
+  - title                                 : External Scripts
+    description                           : Add new custom functions in JavaScript.
+    fontawesome_icon_name                 : code
 
   - title                                 : Today Widget
     description                           : One tap clipboard text transformation using the Today Widget.
@@ -52,6 +56,14 @@ features                                  :
   - title                                 : Share Sheet
     description                           : Use Share Sheet to quickly transform text and copy it to the clipboard.
     fontawesome_icon_name                 : share-square
+
+  - title                                 : Menu Bar App
+    description                           : One-click text transformations easily available in macOS menu bar.
+    fontawesome_icon_name                 : ellipsis-h
+  
+  - title                                 : Command Line Tool
+    description                           : Access Esse functions in terminal.
+    fontawesome_icon_name                 : terminal
 
   - title                                 : Dark Mode
     description                           : Support for dark mode makes for those late night text transformation.
