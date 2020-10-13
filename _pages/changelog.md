@@ -9,6 +9,32 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 2020.5** 
+`Oct 13, 2020`
+
+iOS:
+- 🎈New: External scripts support. Add new functions to Esse with external JavaScript scripts.
+- 🎈New: Help section on the website, use Settings -> FAQ or go to https://esse.ameba.co/help
+- ⚙️Improved: Light UI refresh for iOS 14
+
+macOS:
+- 🎈New: External scripts support. Add new functions to Esse with external JavaScript scripts.
+- 🎈New: macOS Services Support
+- 🎈New: Esse command line tool, all Esse functions can be used in Terminal scripts
+- ⚙️Refreshed UI - removed sidebar, improved main menu, updated menu bar icon, new shortcuts.
+
+# **Version 2020.4** 
+`Jul 6, 2020`
+
+iOS:
+- 🎈New: "Developer" category, new transformations 
+
+macOS:
+- 🎈New: Command Palette - keyboard only access to transformation library
+- 🎈New: Selected transformations can be reordered in the transformation bar
+- 🎈New: "Developer" category, new transformations 
+- 🎈New: Alfred integration, download official workflow from https://github.com/amebalabs/Esse/raw/master/Alfred/Esse.alfredworkflow
+
 # **Version 2020.3** 
 `May 31, 2020`
 - 🎈New: Custom Fonts Support
